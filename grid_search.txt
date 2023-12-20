@@ -1,0 +1,8 @@
+
+
+    RandomForestClassifier(class_weight='balanced_subsample', criterion='entropy',
+                       max_depth=16, min_samples_split=256, n_estimators=1024)
+    
+    Score : 0.7917
+    --------------------
+    
